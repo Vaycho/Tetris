@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: 'Press Start 2P', cursive;
+  color: #ff4d00;
+}
+
+#T {
+  color: red;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#E {
+  color: orange;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#t {
+  color: yellow;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#R {
+  color: green;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#I {
+  color: blue;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#S {
+  color: purple;
+  font-family: 'Press Start 2P', cursive;
+}
+
+canvas {
+  border-style: solid;
+  border-color: grey;
+}
+button{
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #fbff00;
+  text-decoration: none;
+  color: #ff4d00;
+  font-family: 'Press Start 2P', cursive;
+}
+button:hover{
+  background-color: #ffbb00;
+}
